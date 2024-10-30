@@ -1,0 +1,4 @@
+Pillow>=8.0.0
+
+Pillow==8.4.0  # Para uma versão específica
+Pillow>=8.0.0  # Para permitir qualquer versão a partir da 8.0.0
